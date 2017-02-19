@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< master
     <list default="true" id="69603d36-eba5-41ab-b47f-1f4c64c4eb69" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/style.css" />
     </list>
+=======
+    <list default="true" id="69603d36-eba5-41ab-b47f-1f4c64c4eb69" name="Default" comment="" />
+>>>>>>> local
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
